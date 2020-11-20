@@ -6,4 +6,4 @@ For this project I used Bill Porter's PS2X Arduino Library (http://www.billporte
 For detailed information, please visit (http://seco.gen.tr/2020/07/20/ps2-dualshock-to-c64-joystick-port-mod/)
 
 Use mouse_and_joystick arduino source code to add mouse functionality to your adapter.
-To use mouse function (For Amiga only) Press R2 or L2 on Dualshock and move right analog stick
+To use mouse function (For Amiga only) Press R2 or L2 on Dualshock and move right analog stick. Cross is Left and Square is for Right Mouse Button
