@@ -8,20 +8,20 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -30,8 +30,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -39,19 +39,19 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -4106,15 +4106,15 @@ LED</description>
 <packages>
 <package name="PS2_DUALSHOCK">
 <description>Playstation 2 Dualshock DIP 90 degree connector</description>
-<pad name="P$1" x="0" y="7" drill="1"/>
-<pad name="P$2" x="0" y="3" drill="1"/>
-<pad name="P$3" x="0" y="-1" drill="1"/>
-<pad name="P$4" x="0" y="-5" drill="1"/>
-<pad name="P$5" x="0" y="-9" drill="1"/>
-<pad name="P$6" x="0" y="-13" drill="1"/>
-<pad name="P$7" x="0" y="-17" drill="1"/>
-<pad name="P$8" x="0" y="-21" drill="1"/>
-<pad name="P$9" x="0" y="-25" drill="1"/>
+<pad name="P$1" x="0" y="7" drill="1" shape="long"/>
+<pad name="P$2" x="0" y="3" drill="1" shape="long"/>
+<pad name="P$3" x="0" y="-1" drill="1" shape="long"/>
+<pad name="P$4" x="0" y="-5" drill="1" shape="long"/>
+<pad name="P$5" x="0" y="-9" drill="1" shape="long"/>
+<pad name="P$6" x="0" y="-13" drill="1" shape="long"/>
+<pad name="P$7" x="0" y="-17" drill="1" shape="long"/>
+<pad name="P$8" x="0" y="-21" drill="1" shape="long"/>
+<pad name="P$9" x="0" y="-25" drill="1" shape="long"/>
 <wire x1="4" y1="10" x2="4" y2="-29" width="0.127" layer="21"/>
 <wire x1="4" y1="-29" x2="23" y2="-29" width="0.127" layer="21"/>
 <wire x1="23" y1="-29" x2="23" y2="10" width="0.127" layer="21"/>
@@ -4574,29 +4574,29 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <packages>
 <package name="ARDUINO-PRO-MINI">
 <description>&lt;b&gt;Arduino Pro Mini&lt;/b&gt;</description>
-<pad name="J6.12" x="15.24" y="7.62" drill="1.143"/>
-<pad name="J6.11" x="12.7" y="7.62" drill="1.143"/>
-<pad name="J6.10" x="10.16" y="7.62" drill="1.143"/>
-<pad name="J6.9" x="7.62" y="7.62" drill="1.143"/>
-<pad name="J6.8" x="5.08" y="7.62" drill="1.143"/>
-<pad name="J6.7" x="2.54" y="7.62" drill="1.143"/>
-<pad name="J6.6" x="0" y="7.62" drill="1.143"/>
-<pad name="J6.5" x="-2.54" y="7.62" drill="1.143"/>
-<pad name="J6.4" x="-5.08" y="7.62" drill="1.143"/>
-<pad name="J6.3" x="-7.62" y="7.62" drill="1.143"/>
-<pad name="J6.2" x="-10.16" y="7.62" drill="1.143"/>
-<pad name="J6.1" x="-12.7" y="7.62" drill="1.143"/>
-<pad name="J3.3" x="15.24" y="5.08" drill="1.143"/>
-<pad name="J3.2" x="15.24" y="2.54" drill="1.143"/>
-<pad name="J3.1" x="15.24" y="0" drill="1.143"/>
-<pad name="J1.1" x="-15.24" y="6.35" drill="1.143"/>
-<pad name="J1.2" x="-15.24" y="3.81" drill="1.143"/>
-<pad name="J1.3" x="-15.24" y="1.27" drill="1.143"/>
-<pad name="J1.4" x="-15.24" y="-1.27" drill="1.143"/>
-<pad name="J1.5" x="-15.24" y="-3.81" drill="1.143"/>
-<pad name="J1.6" x="-15.24" y="-6.35" drill="1.143"/>
-<pad name="J2.2" x="-3.81" y="5.08" drill="1"/>
-<pad name="J2.1" x="-1.27" y="5.08" drill="1"/>
+<pad name="J6.12" x="15.24" y="7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J6.11" x="12.7" y="7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J6.10" x="10.16" y="7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J6.9" x="7.62" y="7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J6.8" x="5.08" y="7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J6.7" x="2.54" y="7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J6.6" x="0" y="7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J6.5" x="-2.54" y="7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J6.4" x="-5.08" y="7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J6.3" x="-7.62" y="7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J6.2" x="-10.16" y="7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J6.1" x="-12.7" y="7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J3.3" x="15.24" y="5.08" drill="1.143" diameter="1.9304"/>
+<pad name="J3.2" x="15.24" y="2.54" drill="1.143" diameter="1.9304"/>
+<pad name="J3.1" x="15.24" y="0" drill="1.143" diameter="1.9304"/>
+<pad name="J1.1" x="-15.24" y="6.35" drill="1.143" diameter="1.9304"/>
+<pad name="J1.2" x="-15.24" y="3.81" drill="1.143" diameter="1.9304"/>
+<pad name="J1.3" x="-15.24" y="1.27" drill="1.143" diameter="1.9304"/>
+<pad name="J1.4" x="-15.24" y="-1.27" drill="1.143" diameter="1.9304"/>
+<pad name="J1.5" x="-15.24" y="-3.81" drill="1.143" diameter="1.9304"/>
+<pad name="J1.6" x="-15.24" y="-6.35" drill="1.143" diameter="1.9304"/>
+<pad name="J2.2" x="-3.81" y="5.08" drill="1" diameter="1.9304"/>
+<pad name="J2.1" x="-1.27" y="5.08" drill="1" diameter="1.9304"/>
 <wire x1="16.51" y1="8.255" x2="15.875" y2="8.89" width="0.127" layer="21"/>
 <wire x1="14.605" y1="8.89" x2="13.97" y2="8.255" width="0.127" layer="21"/>
 <wire x1="12.065" y1="8.89" x2="11.43" y2="8.255" width="0.127" layer="21"/>
@@ -4655,16 +4655,16 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <wire x1="13.97" y1="6.985" x2="14.605" y2="6.35" width="0.127" layer="21"/>
 <wire x1="14.605" y1="6.35" x2="15.875" y2="6.35" width="0.127" layer="21"/>
 <wire x1="15.875" y1="6.35" x2="16.51" y2="6.985" width="0.127" layer="21"/>
-<pad name="J7.1" x="15.24" y="-7.62" drill="1.143"/>
-<pad name="J7.2" x="12.7" y="-7.62" drill="1.143"/>
-<pad name="J7.3" x="10.16" y="-7.62" drill="1.143"/>
-<pad name="J7.4" x="7.62" y="-7.62" drill="1.143"/>
-<pad name="J7.5" x="5.08" y="-7.62" drill="1.143"/>
-<pad name="J7.6" x="2.54" y="-7.62" drill="1.143"/>
-<pad name="J7.8" x="-2.54" y="-7.62" drill="1.143"/>
-<pad name="J7.9" x="-5.08" y="-7.62" drill="1.143"/>
-<pad name="J7.11" x="-10.16" y="-7.62" drill="1.143"/>
-<pad name="J7.12" x="-12.7" y="-7.62" drill="1.143"/>
+<pad name="J7.1" x="15.24" y="-7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J7.2" x="12.7" y="-7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J7.3" x="10.16" y="-7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J7.4" x="7.62" y="-7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J7.5" x="5.08" y="-7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J7.6" x="2.54" y="-7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J7.8" x="-2.54" y="-7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J7.9" x="-5.08" y="-7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J7.11" x="-10.16" y="-7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J7.12" x="-12.7" y="-7.62" drill="1.143" diameter="1.9304"/>
 <wire x1="16.51" y1="-6.985" x2="15.875" y2="-6.35" width="0.127" layer="21"/>
 <wire x1="-13.335" y1="-6.35" x2="-13.97" y2="-6.985" width="0.127" layer="21"/>
 <wire x1="-13.97" y1="-6.985" x2="-13.97" y2="-8.255" width="0.127" layer="21"/>
@@ -4732,8 +4732,8 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <wire x1="13.97" y1="4.445" x2="13.97" y2="5.715" width="0.127" layer="21"/>
 <wire x1="13.97" y1="5.715" x2="14.605" y2="6.35" width="0.127" layer="21"/>
 <wire x1="-13.335" y1="-8.89" x2="-13.97" y2="-8.255" width="0.127" layer="21"/>
-<pad name="J7.10" x="-7.62" y="-7.62" drill="1.143"/>
-<pad name="J7.7" x="0" y="-7.62" drill="1.143"/>
+<pad name="J7.10" x="-7.62" y="-7.62" drill="1.143" diameter="1.9304"/>
+<pad name="J7.7" x="0" y="-7.62" drill="1.143" diameter="1.9304"/>
 <wire x1="16.51" y1="8.89" x2="13.335" y2="8.89" width="0.127" layer="21"/>
 <wire x1="13.335" y1="8.89" x2="9.525" y2="8.89" width="0.127" layer="21"/>
 <wire x1="9.525" y1="8.89" x2="-6.985" y2="8.89" width="0.127" layer="21"/>
@@ -4959,7 +4959,7 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <part name="J2" library="seco_lib" deviceset="PS2_DUALSHOCK" device=""/>
 <part name="FRAME1" library="SparkFun-Aesthetics" library_urn="urn:adsk.eagle:library:507" deviceset="FRAME-A4L" device="">
 <attribute name="CNAME" value="C64 Dualshock Adapter"/>
-<attribute name="CREVISION" value="1.11"/>
+<attribute name="CREVISION" value="2.13"/>
 <attribute name="DESIGNER" value="Sercan Kocabas"/>
 </part>
 <part name="PWR_SEL" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="SWITCH-SPDT" device="-PTH-11.6X4.0MM" package3d_urn="urn:adsk.eagle:package:40177/1"/>
