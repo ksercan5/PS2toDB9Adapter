@@ -9,4 +9,7 @@ Use mouse_and_joystick arduino source code to add mouse functionality to your ad
 To use mouse function (For Amiga only) Press R2 or L2 on Dualshock and move right analog stick. Cross is Left and Square is for Right Mouse Button
 
 For first batch of production (only commodore.gen.tr users), please use v1.1
-Other productions use 
+
+Other productions use V2 file. (Or you can use the file with mouse support)
+
+
