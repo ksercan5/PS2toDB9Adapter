@@ -16,3 +16,5 @@ Other productions use V2 file. (Or you can use the file with mouse support)
 
 New double card for C64 will be used to connect to PS2 controllers. Only one Arduino Nano will be enough (Hopefully)
 Software not ready yet.
+
+PCBWAY Link: https://www.pcbway.com/project/shareproject/Playstation_PS2_Dualshock_to_DB9__DSUB_9__Adapter_for_Commodore__Amiga_and_Atari_Computers.html
