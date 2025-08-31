@@ -14,7 +14,7 @@ Other productions use V2 file. (Or you can use the file with mouse support)
 
 # UPDATE:
 
-New double card for C64 will be used to connect to PS2 controllers. Only one Arduino Nano will be enough (Finally tested ok:)
+New double card for C64 will be used to connect two PS2 controllers. Only one Arduino Nano will be enough (Finally tested ok:)
 
 Please download the firmware for double board.
 
